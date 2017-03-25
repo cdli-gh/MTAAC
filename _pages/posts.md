@@ -1,7 +1,6 @@
 ---
-permalink: /about/
-title: "About"
-layout: single
+permalink: /posts/
+title: "Posts"
 ---
 
 # All posts
