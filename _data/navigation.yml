@@ -15,3 +15,5 @@ docs:
         url: /about/
       - title: "Contact"
         url: /contact/
+      - title: "Posts"
+        url: /posts/
