@@ -11,9 +11,9 @@ main:
 
 
 docs:
-  - title: Cat 1
+  - title: General
     children:
-      - title: "Child 1"
-        url: /docs/quick-start-guide/
-      - title: "Child 2"
-        url: /docs/structure/
+      - title: "About"
+        url: /about/
+      - title: "Contact"
+        url: /contact/
