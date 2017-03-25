@@ -1,8 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
 ---
-#About
+
+
+# About
 
 ## Objectives
 
