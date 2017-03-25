@@ -1,7 +1,7 @@
 ---
 permalink: /posts/
 title: "Posts"
-layout: simple
+layout: single
 ---
 
 # All posts
