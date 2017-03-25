@@ -2,9 +2,9 @@
 main:
   - title: "CDLI"
     url: http://cdli.ucla.edu
-   - title: "ACoLi"
-     url: http://www.acoli.informatik.uni-frankfurt.de/
-   - title: "NMC UofT"
-     url: http://nmc.utoronto.ca/
-   - title: "Sitemap"
-     url: /sitemap/
+  - title: "ACoLi"
+    url: http://www.acoli.informatik.uni-frankfurt.de/
+  - title: "NMC UofT"
+    url: http://nmc.utoronto.ca/
+  - title: "Sitemap"
+    url: /sitemap/
