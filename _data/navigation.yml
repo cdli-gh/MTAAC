@@ -6,10 +6,8 @@ main:
     url: http://www.acoli.informatik.uni-frankfurt.de/
   - title: "NMC UofT"
     url: http://nmc.utoronto.ca/
-  #- title: "Sitemap"
-  #  url: /sitemap/
 
-
+# sidebar menu
 docs:
   - title: General
     children:
