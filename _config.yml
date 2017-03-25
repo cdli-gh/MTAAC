@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Machine Translation and Automated Analysis of Cuneiform Languages (MTAAC)"
+title                    : "MTAAC: Machine Translation and Automated Analysis of Cuneiform Languages"
 title_separator          : "-"
 name                     : "MTAAC"
 description              : "This is the main hub for the MTAAC project."
