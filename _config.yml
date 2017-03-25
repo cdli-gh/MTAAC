@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "Machine Translation and Automated Analysis of Cuneiform Languages (MTAAC)"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "MTAAC"
 description              : "This is the main hub for the MTAAC project."
-url                      : "https://github.com/cdli-gh/MTAAC/"
-baseurl                  : "/cdli-gh/MTAAC"
-repository               : "cdli-gh/MTAAC"
+#url                      : "https://github.com/cdli-gh/MTAAC/"
+#baseurl                  : "/cdli-gh/MTAAC"
+#repository               : "cdli-gh/MTAAC"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
