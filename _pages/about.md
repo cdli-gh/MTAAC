@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout: page
+layout: archive
 ---
 
 
