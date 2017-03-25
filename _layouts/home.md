@@ -1,9 +1,9 @@
 ---
-layout: splash
+#layout: splash
 header:
+  overlay_image: /assets/images/P118374.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/P118374.jpg
 ---
 
 The MTAAC project develops and applies new computerized methods to translate and analyze the contents of some 67,000 highly standardized administrative documents from southern Mesopotamia (ancient Iraq) from the 21st century BC. Our methodology, which combines machine learning with statistical and neural machine translation technologies, can be applied to other ancient languages. This methodology, the translations, and the historical, social and economic data extracted from them, will be offered to the public in open access.
