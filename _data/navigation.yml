@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "CDLI"
+    url: http://cdli.ucla.edu
+   - title: "ACoLi"
+     url: http://www.acoli.informatik.uni-frankfurt.de/
+   - title: "NMC UofT"
+     url: http://nmc.utoronto.ca/
+   - title: "Sitemap"
+     url: /sitemap/
