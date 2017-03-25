@@ -8,3 +8,12 @@ main:
     url: http://nmc.utoronto.ca/
   #- title: "Sitemap"
   #  url: /sitemap/
+
+
+docs:
+  - title: Cat 1
+    children:
+      - title: "Child 1"
+        url: /docs/quick-start-guide/
+      - title: "Child 2"
+        url: /docs/structure/
