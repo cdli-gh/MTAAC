@@ -2,6 +2,8 @@
 permalink: /posts/
 title: "All Posts"
 layout: single
+sidebar:
+  nav: "docs"
 ---
 <ul>
   {% for post in site.posts %}
