@@ -5,10 +5,7 @@ layout: single
 sidebar:
   nav: "docs"
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+{% include paginator.html %}
