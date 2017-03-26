@@ -9,6 +9,14 @@ main:
 
 # sidebar menu
 docs:
+  -title: "General"
+   children:
+     - title: "About"
+       url: /about/
+     - title: "Contact"
+       url: /contact/
+     - title: "Posts"
+       url: /posts/
   - title: "International Teams"
     children:
       - title: "CDLI"
