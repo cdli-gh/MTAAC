@@ -2,8 +2,7 @@
 layout: post
 title:  "TBD"
 date:   2017-03-31
-categories: announcements
-permalink: /announcements/digging-into-data-challenge/
+permalink: /gging-into-data-challenge/
 ---
 Text
 
