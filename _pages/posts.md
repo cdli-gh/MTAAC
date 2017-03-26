@@ -1,11 +1,8 @@
 ---
 permalink: /posts/
-title: "Posts"
+title: "All Posts"
 layout: single
 ---
-
-# All posts
-
 <ul>
   {% for post in site.posts %}
     <li>
