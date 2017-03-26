@@ -1,19 +1,21 @@
 # main links
 main:
-  - title: "CDLI"
-    url: http://cdli.ucla.edu
-  - title: "ACoLi"
-    url: http://www.acoli.informatik.uni-frankfurt.de/
-  - title: "NMC UofT"
-    url: http://nmc.utoronto.ca/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Posts"
+    url: /posts/
 
 # sidebar menu
 docs:
-  - title: General
+  - title: "International Teams"
     children:
-      - title: "About"
-        url: /about/
-      - title: "Contact"
-        url: /contact/
-      - title: "Posts"
-        url: /posts/
+      - title: "CDLI"
+        url: http://cdli.ucla.edu
+      - title: "ACoLi"
+        url: http://www.acoli.informatik.uni-frankfurt.de/
+      - title: "NMC UofT"
+        url: http://nmc.utoronto.ca/
+    
+      
