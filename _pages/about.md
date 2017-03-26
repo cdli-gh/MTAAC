@@ -20,16 +20,16 @@ sidebar:
 ## Team
 ### University of Los Angeles, California
 
-[Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator, Director of the [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)
+[Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator, Director of the [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)  
 
 ### University of Frankfurt
 
-Christian Chiarcos, Co-Principal Investigator, co-Principal Investigator at the [Linked Open Dictionaries project](http://acoli.cs.uni-frankfurt.de/liodi/home.html)
+Christian Chiarcos, Co-Principal Investigator, co-Principal Investigator at the [Linked Open Dictionaries project](http://acoli.cs.uni-frankfurt.de/liodi/home.html)  
 
 ### University of Toronto
 
-Heather Baker, Principal Investigator
-Émilie Pagé-Perron, Executive Coordinator, Co-Principal Investigator of the [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)
+Heather Baker, Principal Investigator  
+Émilie Pagé-Perron, Executive Coordinator, Co-Principal Investigator of the [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)  
 
 ## Funding
 
