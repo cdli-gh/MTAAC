@@ -18,7 +18,7 @@ sidebar:
 - Formalize these new data utilizing Linked Open Data (LOD, including Linguistic LOD) vocabularies, and foster the practices of standardization, open data and LOD as integral to projects in digital humanities and computational philology.
 
 ## Team
-### University of Los Angeles, California, [Near East Languages and Cultures Department](http://nelc.ucla.edu/)
+### University of Los Angeles, California, [Near East Languages and Cultures Department](http://nelc.ucla.edu/), [Cuneiform Digital Library Initiative (CDLI)](http://cdli.ucla.edu)
 
 [Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator  
 
