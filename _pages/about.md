@@ -20,18 +20,18 @@ sidebar:
 ## Team
 ### University of Los Angeles, California, [Near East Languages and Cultures Department](http://nelc.ucla.edu/)
 
-**[Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator**
+**[Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator**  
 Director of the [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)  
 
 ### University of Frankfurt, [Institut für Informatik](http://www.informatik.uni-frankfurt.de/index.php/en/), [Angewandte Computerlinguistik Lab](http://www.acoli.informatik.uni-frankfurt.de/)
 
-**Christian Chiarcos, Co-Principal Investigator**
+**Christian Chiarcos, Co-Principal Investigator**  
 Co-Principal Investigator at the [Linked Open Dictionaries project](http://acoli.cs.uni-frankfurt.de/liodi/home.html)  
 
 ### University of Toronto, [Near and Middle Eastern Civilizations Department](http://nmc.utoronto.ca/)
 
-**[Heather Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator**
-**[Émilie Pagé-Perron](http://epageperron.info), Executive Coordinator**
+**[Heather Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator**  
+**[Émilie Pagé-Perron](http://epageperron.info), Executive Coordinator**  
 Co-Principal Investigator of the [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)  
 
 ## Funding
