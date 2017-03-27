@@ -19,11 +19,11 @@ docs:
         url: /posts/
   - title: "International Teams"
     children:
-      - title: "CDLI"
+      - title: "CDLI UCLA"
         url: http://cdli.ucla.edu
-      - title: "ACoLi"
+      - title: "ACoLi Lab"
         url: http://www.acoli.informatik.uni-frankfurt.de/
-      - title: "NMC UofT"
+      - title: "Digital Cuneiform Resrarch Group NMC UofT"
         url: http://nmc.utoronto.ca/
     
       
