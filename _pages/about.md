@@ -32,7 +32,7 @@ Maria Sukhareva
  
 
 ### University of Toronto, [Near and Middle Eastern Civilizations Department](http://nmc.utoronto.ca/)
-[Heather Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator  
+[Heather D. Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator  
 [Émilie Pagé-Perron](http://epageperron.info), Executive Coordinator
 
 
