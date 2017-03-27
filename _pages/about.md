@@ -22,10 +22,13 @@ header:
 ## Team
 ### University of Los Angeles, California, [Near East Languages and Cultures Department](http://nelc.ucla.edu/)
 [Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator  
+Prashant Rajput
 
 
 ### University of Frankfurt, [Institut für Informatik](http://www.informatik.uni-frankfurt.de/index.php/en/), [Angewandte Computerlinguistik Lab](http://www.acoli.informatik.uni-frankfurt.de/)
 Christian Chiarcos, Co-Principal Investigator  
+Ilya Khait  
+Maria Sukhareva
  
 
 ### University of Toronto, [Near and Middle Eastern Civilizations Department](http://nmc.utoronto.ca/)
