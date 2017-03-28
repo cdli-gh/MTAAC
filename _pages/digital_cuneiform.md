@@ -1,6 +1,6 @@
 ---
 permalink: /digital_cuneiform/
-title: "Digital Cuneiform @ NMC"
+title: "Digital Cuneiform @ NMC UofT"
 layout: single
 sidebar:
   nav: "docs"
