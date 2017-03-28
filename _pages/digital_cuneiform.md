@@ -18,3 +18,9 @@ header:
 - [The Prosopography of the Neo-Assyrian Empire Database](http://individual.utoronto.ca/HDBaker/pnaupdates.html)  
 - [Machine Translation and Automated Analysis of Cuneiform Languages (MTAAC)](https://cdli-gh.github.io/mtaac/)  
 - [CDLI canadian mirror](http://cdli.utoronto.ca)  
+
+## Location
+Department of Near and Middle Eastern Civilizations  
+University of Toronto  
+Bancroft Ave, 4  
+
