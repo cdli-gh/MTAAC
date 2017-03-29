@@ -15,7 +15,7 @@ header:
 
 
 ## Projects
-- [The Prosopography of the Neo-Assyrian Empire Database](http://individual.utoronto.ca/HDBaker/pnaupdates.html)  
+- [The Prosopography of the Neo-Assyrian Empire Online](http://individual.utoronto.ca/HDBaker/pnaupdates.html)  
 - [Machine Translation and Automated Analysis of Cuneiform Languages (MTAAC)](https://cdli-gh.github.io/mtaac/)  
 
 ## Location
