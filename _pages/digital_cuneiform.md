@@ -12,6 +12,7 @@ header:
 ## Research group
 - Heather D. Baker  
 - Émilie Pagé-Perron  
+- Lucas Reckling  
 
 
 ## Projects
