@@ -22,5 +22,6 @@ header:
 ## Location
 Department of Near and Middle Eastern Civilizations  
 University of Toronto  
-Bancroft Ave, 4  
-
+4 Bancroft Ave, 2nd floor
+Toronto, Ontario
+M5S 1C1 CANADA
