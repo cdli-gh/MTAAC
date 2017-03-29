@@ -20,8 +20,8 @@ header:
 - [The Prosopography of the Neo-Assyrian Empire Online](http://individual.utoronto.ca/HDBaker/pnaupdates.html)  
 
 ## Location
-Department of Near and Middle Eastern Civilizations  
-University of Toronto  
-4 Bancroft Ave, 2nd floor
-Toronto, Ontario
-M5S 1C1 CANADA
+Department of Near and Middle Eastern Civilizations   
+University of Toronto   
+4 Bancroft Ave, 2nd floor  
+Toronto, Ontario  
+M5S 1C1 CANADA  
