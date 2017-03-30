@@ -20,20 +20,23 @@ header:
 - Formalize these new data utilizing Linked Open Data (LOD, including Linguistic LOD) vocabularies, and foster the practices of standardization, open data and LOD as integral to projects in digital humanities and computational philology.
 
 ## Team
-### University of Los Angeles, California, [Department of Near Eastern Languages and Cultures](http://nelc.ucla.edu/),  [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)
-[Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator  
-Prashant Rajput
 
+### University of Toronto, [Department of Near and Middle Eastern Civilizations](http://nmc.utoronto.ca/), [Digital Cuneiform Research Group](https://cdli-gh.github.io/mtaac/digital_cuneiform/)
+[Heather D. Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator   
+[Émilie Pagé-Perron](http://epageperron.info), Executive Coordinator  
 
 ### University of Frankfurt, [Institut für Informatik](http://www.informatik.uni-frankfurt.de/index.php/en/), [Angewandte Computerlinguistik Lab](http://www.acoli.informatik.uni-frankfurt.de/)
 Christian Chiarcos, Co-Principal Investigator  
 Ilya Khait  
-Maria Sukhareva
+Maria Sukhareva  
+
+### University of Los Angeles, California, [Department of Near Eastern Languages and Cultures](http://nelc.ucla.edu/),  [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)
+[Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator  
+Prashant Rajput  
+
  
 
-### University of Toronto, [Department of Near and Middle Eastern Civilizations](http://nmc.utoronto.ca/), [Digital Cuneiform Research Group](https://cdli-gh.github.io/mtaac/digital_cuneiform/)
-[Heather D. Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator  
-[Émilie Pagé-Perron](http://epageperron.info), Executive Coordinator
+
 
 
 ## Funding
