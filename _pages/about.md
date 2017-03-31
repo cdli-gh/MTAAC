@@ -32,7 +32,7 @@ gallery:
 
 ### University of Toronto, [Department of Near and Middle Eastern Civilizations](http://nmc.utoronto.ca/), [Digital Cuneiform Research Group](https://cdli-gh.github.io/mtaac/digital_cuneiform/)
 [Heather D. Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator   
-[Émilie Pagé-Perron](http://epageperron.info), Executive Coordinator  
+[Émilie Pagé-Perron](http://epageperron.info), Coordinator  
 
 ### University of Frankfurt, [Institut für Informatik](http://www.informatik.uni-frankfurt.de/index.php/en/), [Angewandte Computerlinguistik Lab](http://www.acoli.informatik.uni-frankfurt.de/)
 Christian Chiarcos, Co-Principal Investigator  
