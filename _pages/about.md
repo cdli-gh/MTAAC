@@ -7,14 +7,14 @@ sidebar:
 header:
   overlay_image: /assets/images/P248594.jpg
 gallery:
-  - image_path: /assets/images/data_challenge_h.jpg
-    alt: "Digging into Data Challenge logo"
   - image_path: /assets/images/download.png
     alt: "Deutsche Forschungsgemeinschaft logo"
   - image_path: /assets/images/SSHRC-300-solid.png
     alt: "Social Sciences and Humanities Research Council logo"
   - image_path: /assets/images/neh_logo_stckd.jpg
     alt: "National Endowment for the Humanities logo"
+  - image_path: /assets/images/data_challenge_h.jpg
+    alt: "Digging into Data Challenge logo"
 ---
 
 
