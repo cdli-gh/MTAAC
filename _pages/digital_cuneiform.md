@@ -17,7 +17,7 @@ header:
 
 ## Projects
 - [Machine Translation and Automated Analysis of Cuneiform Languages (MTAAC)](https://cdli-gh.github.io/mtaac/)    
-- [The Prosopography of the Neo-Assyrian Empire Online](http://individual.utoronto.ca/HDBaker/pnaupdates.html)  
+- The Prosopography of the Neo-Assyrian Empire Online (In preparation)
 
 ## Location
 Department of Near and Middle Eastern Civilizations   
