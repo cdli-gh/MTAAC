@@ -19,16 +19,16 @@ gallery:
 
 We are delighted to announce that the MTAAC project is now funded by the SSHRC, NEH and DFG through the Trans-Atlantic Platform (T-AP)  Digging into Data Challenge as one of 14 international teams of researchers addressing big data questions in the Humanities and Social Sciences. 
 
-[Digging into Data announcement](https://diggingintodata.org/awards/2016/news/winners-round-four-t-ap-digging-data-challenge) 
-Project description on the Digging into Data website(https://diggingintodata.org/awards/2016/project/machine-translation-and-automated-analysis-cuneiform-languages-mtaac)
-
-
 {% include gallery %}
 
+## Links
+[Digging into Data announcement](https://diggingintodata.org/awards/2016/news/winners-round-four-t-ap-digging-data-challenge)   
+[Project description on the Digging into Data website](https://diggingintodata.org/awards/2016/project/machine-translation-and-automated-analysis-cuneiform-languages-mtaac)
 
+## Press releases
 [NEH press release](https://www.neh.gov/news/press-release/diggingintodata)  
 [SSHRC press release](http://www.sshrc-crsh.gc.ca/news_room-salle_de_presse/press_releases-communiques/2017/digging_into_data-au_coeur_des_donnees_numeriques-eng.aspx)  
 
-Press releases and news links will be added to this post as they appear.  
+
 
 
