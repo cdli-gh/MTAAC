@@ -7,6 +7,7 @@ sidebar:
 header:
   overlay_image: /assets/images/P248594.jpg
 ---
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
