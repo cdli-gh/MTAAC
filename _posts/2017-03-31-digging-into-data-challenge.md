@@ -3,7 +3,6 @@ layout: single
 title:  "MTACC receives major grant from the DFG, SSHRC and NEH through the Digging into Data Challenge"
 date:   2017-03-31
 share: true
-excerpt:" "
 sidebar:
   nav: "docs"
 gallery:
