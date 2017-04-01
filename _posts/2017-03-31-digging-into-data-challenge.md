@@ -6,8 +6,6 @@ share: true
 excerpt:" "
 sidebar:
   nav: "docs"
-header:
-  overlay_image: /assets/images/P248594.jpg
 gallery:
   - image_path: /assets/images/download.png
     alt: "Deutsche Forschungsgemeinschaft logo"
