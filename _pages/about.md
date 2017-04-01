@@ -16,8 +16,6 @@ gallery:
   - image_path: /assets/images/data_challenge_h.jpg
     alt: "Digging into Data Challenge logo"
 ---
-{% include toc %}
-
 ## Objectives of the project
 
 - Formulate, test and evaluate methodologies for the automated analysis and machine translation of transliterated (i.e., transcribed sign-by-sign) cuneiform documents, and provide state-of-the-art technology to specialists in the field of Assyriology;
