@@ -16,7 +16,7 @@ gallery:
   - image_path: /assets/images/data_challenge_h.jpg
     alt: "Digging into Data Challenge logo"
 ---
-
+{% include toc %}
 
 ## Objectives of the project
 
