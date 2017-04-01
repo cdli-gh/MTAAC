@@ -1,7 +1,7 @@
 ---
 permalink: /posts/
 title: "All Posts"
-layout: single
+layout: archive
 sidebar:
   nav: "docs"
 header:
