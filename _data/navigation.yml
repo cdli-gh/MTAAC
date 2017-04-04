@@ -17,6 +17,8 @@ docs:
         url: /contact/
       - title: "Posts"
         url: /posts/
+      - title: "Calendar"
+        url: /calendar/
   - title: "International Teams"
     children:
       - title: "CDLI UCLA"
