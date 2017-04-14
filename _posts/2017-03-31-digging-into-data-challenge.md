@@ -16,8 +16,7 @@ gallery:
   - image_path: /assets/images/data_challenge_h.jpg
     alt: "Digging into Data Challenge logo"
 ---
-
-March 31st 2017 - We are delighted to announce that the MTAAC project is now funded by the SSHRC, NEH and DFG through the Trans-Atlantic Platform (T-AP)  Digging into Data Challenge as one of 14 international teams of researchers addressing big data questions in the Humanities and Social Sciences. 
+March 31st 2017 - We are delighted to announce that the MTAAC project is now funded through the Trans-Atlantic Platform (T-AP) Digging into Data Challenge by the DFG, NEH and SSHRC  as one of 14 international teams of researchers addressing big data questions in the Humanities and Social Sciences.
 
 {% include gallery %}
 
