@@ -27,9 +27,6 @@ March 31st 2017 - We are delighted to announce that the MTAAC project is now fun
 [UCLA Humanities division news](http://humanities.ucla.edu/faculty-department/ucla-near-eastern-languages-cultures-professor-robert-k-englund-receives-prestigious-grant-research-collaboration-big-data/)  
 
 ## Press releases
-[NEH press release](https://www.neh.gov/news/press-release/diggingintodata)  
-[SSHRC press release](http://www.sshrc-crsh.gc.ca/news_room-salle_de_presse/press_releases-communiques/2017/digging_into_data-au_coeur_des_donnees_numeriques-eng.aspx)    
 [DFG press release](http://www.dfg.de/foerderung/info_wissenschaft/2017/info_wissenschaft_17_16/index.html)
-
-
-
+[NEH press release](https://www.neh.gov/news/press-release/diggingintodata)
+[SSHRC press release](http://www.sshrc-crsh.gc.ca/news_room-salle_de_presse/press_releases-communiques/2017/digging_into_data-au_coeur_des_donnees_numeriques-eng.aspx)
