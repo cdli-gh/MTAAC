@@ -19,6 +19,8 @@ docs:
         url: /posts/
       - title: "Calendar"
         url: /calendar/
+      - title: "Twitter"
+        url: "https://twitter.com/digcuneiform"
   - title: "International Teams"
     children:
       - title: "CDLI UCLA"
