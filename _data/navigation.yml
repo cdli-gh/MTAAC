@@ -31,3 +31,9 @@ docs:
         url: https://cdli-gh.github.io/mtaac/digital_cuneiform/
     
       
+  - title: "Social Media"
+      children:
+        - title: "Twitter"
+          url: "https://twitter.com/digcuneiform"
+        - title: "Facebook"
+          url: "https://www.facebook.com/digcuneiform"
