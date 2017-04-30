@@ -29,17 +29,17 @@ gallery:
 ## Team
 
 ### University of Toronto, [Department of Near and Middle Eastern Civilizations](http://nmc.utoronto.ca/), [Digital Cuneiform Research Group](https://cdli-gh.github.io/mtaac/digital_cuneiform/)
-[Heather D. Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator   
-[Émilie Pagé-Perron](http://epageperron.info), Coordinator  
+- [Heather D. Baker](http://nmc.utoronto.ca/faculty/h-d-baker/), Principal Investigator   
+- [Émilie Pagé-Perron](http://epageperron.info), Coordinator  
 
 ### University of Frankfurt, [Institut für Informatik](http://www.informatik.uni-frankfurt.de/index.php/en/), [Angewandte Computerlinguistik Lab](http://www.acoli.informatik.uni-frankfurt.de/)
-Christian Chiarcos, Co-Principal Investigator  
-Ilya Khait  
-Maria Sukhareva  
+- Christian Chiarcos, Co-Principal Investigator  
+- Ilya Khait  
+- Maria Sukhareva  
 
 ### University of Los Angeles, California, [Department of Near Eastern Languages and Cultures](http://nelc.ucla.edu/),  [Cuneiform Digital Library Initiative](http://cdli.ucla.edu)
-[Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator  
-Prashant Rajput  
+- [Robert K. Englund](cdli.ucla.edu/?q=robert-k-englund), Co-Principal Investigator  
+- Prashant Rajput  
 
 ### External Contributors
 - Doğu Kaan Eraslan, Ecole Pratique des Hautes Etudes: [Égypte ancienne: archéologie, langue, religion (EA 4519)](https://www.ephe.fr/recherche/unites-de-recherche/ea-4519-egypte-ancienne-archeologie-langue-religion)
