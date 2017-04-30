@@ -45,3 +45,5 @@ Prashant Rajput
 The MTAAC project is funded by the DFG, SSHRC and NEH through the Digging into Data Challenge.
 
 {% include gallery %}
+
+## External Contributors
