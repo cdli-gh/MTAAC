@@ -47,3 +47,4 @@ The MTAAC project is funded by the DFG, SSHRC and NEH through the Digging into D
 {% include gallery %}
 
 ## External Contributors
+- Doğu Kaan Eraslan, Ecole Pratique des Hautes Etudes: [Égypte ancienne: archéologie, langue, religion (EA 4519)](https://www.ephe.fr/recherche/unites-de-recherche/ea-4519-egypte-ancienne-archeologie-langue-religion)
