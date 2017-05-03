@@ -13,6 +13,8 @@ docs:
     children:
       - title: "About"
         url: /about/
+      - title: "Publications"
+        url: /pubs/
       - title: "Contact"
         url: /contact/
       - title: "Posts"
