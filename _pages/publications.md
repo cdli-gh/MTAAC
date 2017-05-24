@@ -9,10 +9,10 @@ header:
 ---
 
 ## Scientific publications
-1. Pagé-Perron, Émilie, Maria Sukhareva, Ilya Khait and Christian Chiarcos. 2017. “Automated Translation and Information Extraction on the Sumerian Historical Language” <em>Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</em> (forthcoming) 
+1. Pagé-Perron, Émilie, Maria Sukhareva, Ilya Khait and Christian Chiarcos. 2017. “Automated Translation and Information Extraction on the Sumerian Historical Language.” <em>Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature</em> (forthcoming) 
 
 ## MTAAC in the press and popular medias
-[Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine by Miachel Sinatra 02/05/2017
+[Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine by Michael Sinatra 02/05/2017
 
 
 ## Press releases
