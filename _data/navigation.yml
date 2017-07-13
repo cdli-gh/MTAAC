@@ -19,7 +19,7 @@ docs:
         url: /pubs/
       - title: "Documentation"
         url: https://cdli-gh.github.io/
-     - title: "Contact"
+      - title: "Contact"
         url: /contact/
       - title: "Posts"
         url: /posts/
