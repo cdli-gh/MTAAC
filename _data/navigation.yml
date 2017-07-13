@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Documentation"
+    url: https://cdli-gh.github.io/
   - title: "Contact"
     url: /contact/
   - title: "Posts"
@@ -15,7 +17,9 @@ docs:
         url: /about/
       - title: "Publications"
         url: /pubs/
-      - title: "Contact"
+      - title: "Documentation"
+        url: https://cdli-gh.github.io/
+     - title: "Contact"
         url: /contact/
       - title: "Posts"
         url: /posts/
