@@ -13,6 +13,7 @@ header:
 - Heather D. Baker  
 - Émilie Pagé-Perron  
 - Lucas Reckling  
+- Pouya Lajevardi
 
 
 ## Projects
