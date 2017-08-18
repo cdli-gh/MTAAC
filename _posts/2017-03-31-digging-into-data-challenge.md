@@ -26,6 +26,7 @@ March 31st 2017 - We are delighted to announce that the MTAAC project is now fun
 [Digging into Data announcement](https://diggingintodata.org/awards/2016/news/winners-round-four-t-ap-digging-data-challenge)   
 [Project description on the Digging into Data website](https://diggingintodata.org/awards/2016/project/machine-translation-and-automated-analysis-cuneiform-languages-mtaac)  
 [UCLA Humanities division news](http://humanities.ucla.edu/faculty-department/ucla-near-eastern-languages-cultures-professor-robert-k-englund-receives-prestigious-grant-research-collaboration-big-data/)  
+[UCLA Newsroom: Faculty Bulletin Board](http://newsroom.ucla.edu/dept/faculty/englund-and-collaborators-receive-research-grant)
 [Departement of Near and Middle Eastern Civilizations news](http://nmc.utoronto.ca/sshrc-grant-mtaac/)  
 
 ## Press releases
