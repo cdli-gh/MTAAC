@@ -11,7 +11,7 @@ header:
 ## Scientific publications
 1. Pagé-Perron, Émilie, Maria Sukhareva, Ilya Khait and Christian Chiarcos. 2017. “[Machine Translation and Automated Analysis of the Sumerian Language](http://www.aclweb.org/anthology/W/W17/W17-2202.pdf).” <em>Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, Association for Computational Linguistics Anthology</em>
 
-## MTAAC in the press and popular medias
+## MTAAC in the press and popular media
 [Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine by Michael Sinatra 02/05/2017
 
 
