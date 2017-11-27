@@ -14,9 +14,9 @@ header:
 ## Talks
 1. Pagé-Perron, Émilie, Sukhareva, Maria, Khait, Ilya, and Chiarcos, Christian. “Machine Translation and Automated Analysis of the Sumerian Language.” LaTeCH-CLfL Workshop (Vancouver, August 4, 2017).
 
-2. Pagé-Perron, Émilie,and Reckling, Lucas. “Introducing the Machine Translation and Automated Analysis of Cuneiform Languages Project.” University of Toronto Digital Humanities Network Event (Toronto, August 29, 2017).
+2. Pagé-Perron, Émilie, and Reckling, Lucas. “Introducing the Machine Translation and Automated Analysis of Cuneiform Languages Project.” University of Toronto Digital Humanities Network Event (Toronto, August 29, 2017).
 
-3. Pagé-Perron, Émilie,and Reckling, Lucas. “MTAAC: Machine Translation and Automated Analysis of Cuneiform Languages.” Canadian Society for Mesopotamian Studies, Symposium on “Digital Cuneiform: New Approaches to the Study of Ancient Near Eastern Written Sources” (Toronto, September 30, 2017). 
+3. Pagé-Perron, Émilie, and Reckling, Lucas. “MTAAC: Machine Translation and Automated Analysis of Cuneiform Languages.” Canadian Society for Mesopotamian Studies, Symposium on “Digital Cuneiform: New Approaches to the Study of Ancient Near Eastern Written Sources” (Toronto, September 30, 2017). 
 
 ## MTAAC in the press and popular media
 [Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine, by Michael Sinatra 02/05/2017
