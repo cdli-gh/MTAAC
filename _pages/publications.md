@@ -29,9 +29,11 @@ header:
 
 8. Baker, Heather D. and Pagé-Perron, E. “Machine Translation and Automated Analysis of Cuneiform Languages” (contributions to workshop “Building International Bridges Through Digital Scholarship: The Trans-Atlantic Platform Digging Into Data Challenge Experience,” DH2018 Conference, Mexico City, June 25, 2018).
 
-9. Baker, Heather D. “Introducing the MTAAC project: Machine Translation and Automated Analysis of Cuneiform Languages” (64th Rencontre Assyriologique Internationale, Innsbruck, July 20, 2018)
+9. Baker, Heather D. “Introducing the MTAAC project: Machine Translation and Automated Analysis of Cuneiform Languages” (64th Rencontre Assyriologique Internationale, Innsbruck, July 20, 2018).
 
-10. Pagé-Perron, Émilie. “Cuneiform Collections as (Linked) Data” (“Collections as Data” workshop, Digital Libraries Forum, Las Vegas, October 15-17, 2018).
+10. Khait, Ilya (in Russian). “Annotating Sumerian: (Semi)automatic Tagging of Morphology and Syntax for a Low-Resource Language” (first session of the Seminar for  Comparative-Historical Linguistics, The Institute of Linguistics, Russian Academy of Sciences, Moscow, October 4, 2018).
+
+11. Pagé-Perron, Émilie. “Cuneiform Collections as (Linked) Data” (“Collections as Data” workshop, Digital Libraries Forum, Las Vegas, October 15-17, 2018).
 
 ## MTAAC in the press and popular media
 [Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine, by Michael Sinatra 02/05/2017
