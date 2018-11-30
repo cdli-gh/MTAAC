@@ -11,6 +11,8 @@ header:
 ## Scientific publications
 1. Pagé-Perron, Émilie, Maria Sukhareva, Ilya Khait and Christian Chiarcos. 2017. “[Machine Translation and Automated Analysis of the Sumerian Language](http://www.aclweb.org/anthology/W/W17/W17-2202.pdf).” <em>Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, Association for Computational Linguistics Anthology</em>
 
+2. Chiarcos, Christian, Pagé-Perron, Émilie, Khait, Ilya, Schenk, Niko and Reckling, Lucas. 2018 “[Towards a Linked Open Data Edition of Sumerian Corpora](http://www.lrec-conf.org/proceedings/lrec2018/pdf/862.pdf).” <em>Proceedings of the Language Resources and Evaluation conference</em>. 
+
 
 ## Talks
 1. Pagé-Perron, Émilie, Sukhareva, Maria, Khait, Ilya, and Chiarcos, Christian. “Machine Translation and Automated Analysis of the Sumerian Language” (LaTeCH-CLfL Workshop, Vancouver, August 4, 2017).
