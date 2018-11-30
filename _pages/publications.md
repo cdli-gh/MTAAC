@@ -20,7 +20,7 @@ header:
 
 4. Baker, Heather D. and Pagé-Perron, E. “Machine Translation and Automated Analysis of Cuneiform Languages.” Contributions to workshop “Building International Bridges Through Digital Scholarship: The Trans-Atlantic Platform Digging Into Data Challenge Experience” (DH2018 Conference, Mexico City, June 25, 2018).
 
-5. Heather D. Baker, “Introducing the MTAAC project: Machine Translation and Automated Analysis of Cuneiform Languages” (64th Rencontre Assyriologique Internationale. Innsbruck, July 20, 2018)
+5. Baker, Heather D. “Introducing the MTAAC project: Machine Translation and Automated Analysis of Cuneiform Languages.” 64th Rencontre Assyriologique Internationale (Innsbruck, July 20, 2018)
 
 ## MTAAC in the press and popular media
 [Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine, by Michael Sinatra 02/05/2017
