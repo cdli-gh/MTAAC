@@ -15,7 +15,7 @@ header:
 
 3. Chiarcos, Christian, Khait, Ilya, Pagé-Perron, Émilie, Schenk, Niko, Jayanth, and Reckling, Lucas. 2018. “[Annotating Sumerian: A LLOD-enhanced Workflow for Cuneiform Corpora](http://lrec-conf.org/workshops/lrec2018/W23/pdf/12_W23.pdf).” <em>Proceedings of the 6th Workshop on Linked Data in Linguistics (LDL-2018): Towards Linguistic Data Science</em>.
 
-4. Chiarcos, Christian, Khait, Ilya, Pagé-Perron, Émilie, Schenk, Niko, Jayanth, Fäth, Christian, Steuer, Julius, McGrath, William, and Wang, Jinyan. 2018. "[Annotating a Low-Resource Language with LLOD Technology: Sumerian Morphology and Syntax](https://doi.org/10.3390/info9110290)." <em>Information</em> 9(11): 290. https://doi.org/10.3390/info9110290
+4. Chiarcos, Christian, Khait, Ilya, Pagé-Perron, Émilie, Schenk, Niko, Jayanth, Fäth, Christian, Steuer, Julius, McGrath, William, and Wang, Jinyan. 2018. "[Annotating a Low-Resource Language with LLOD Technology: Sumerian Morphology and Syntax](https://doi.org/10.3390/info9110290)." <em>Information</em> 9(11): 290. 
 
 
 ## Talks
