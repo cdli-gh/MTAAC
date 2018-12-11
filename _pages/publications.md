@@ -42,8 +42,9 @@ header:
 11. Pagé-Perron, Émilie. “Cuneiform Collections as (Linked) Data” (“Collections as Data” workshop, Digital Libraries Forum, Las Vegas, October 15-17, 2018).
 
 ## MTAAC in the press and popular media
-[Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine, by Michael Sinatra 02/05/2017
+1. [Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine, by Michael Sinatra 02/05/2017
 
+2. [The key to cracking long-dead languages?](http://www.bbc.com/future/story/20181207-how-ai-could-help-us-with-ancient-languages-like-sumerian?ocid=ww.social.link.twitter) at BBC Online, by Stephanie Hardach 10/12/2018
 
 ## Press releases
 [DFG press release](http://www.dfg.de/foerderung/info_wissenschaft/2017/info_wissenschaft_17_16/index.html)  
