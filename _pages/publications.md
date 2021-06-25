@@ -17,6 +17,10 @@ header:
 
 4. Chiarcos, Christian, Khait, Ilya, Pagé-Perron, Émilie, Schenk, Niko, Jayanth, Fäth, Christian, Steuer, Julius, McGrath, William, and Wang, Jinyan. 2018. "[Annotating a Low-Resource Language with LLOD Technology: Sumerian Morphology and Syntax](https://doi.org/10.3390/info9110290)." <em>Information</em> 9(11): 290. 
 
+5. 2021	Bansal, Rachit, Himanshu Choudhary, Ravneet Punia, Niko Schenk, Jacob L. Dahl, Émilie Pagé-Perron. "How Low is Too Low? A Computational Perspective on Extremely Low-Resource Languages."Association of Computational Linguistics-  IJCNLP Student Research Workshop Proceedings (Accepted)
+
+6. Fahad Khan, Christian Chiarcos, Thierry Declerck, Daniela Gifu, Elena, González-Blanco García, Jorge Gracia, Max Ionov, Penny Labropoulou, Francesco, Mambrini, John McCrae, Émilie Pagé-Perron, Marco Passarotti, Salvador Ros, Ciprian-Octavian Truica 2021 "When Linguistics Meets Web Technologies. Recent advances in Modelling Linguistic Linked Open Data" Semantic Web (Accepted)
+
 
 ## Talks
 1. Pagé-Perron, Émilie, Sukhareva, Maria, Khait, Ilya, and Chiarcos, Christian. “Machine Translation and Automated Analysis of the Sumerian Language” (LaTeCH-CLfL Workshop, Vancouver, August 4, 2017).
@@ -40,6 +44,23 @@ header:
 10. Khait, Ilya (in Russian). “Annotating Sumerian: (Semi)automatic Tagging of Morphology and Syntax for a Low-Resource Language” (first session of the Seminar for  Comparative-Historical Linguistics, The Institute of Linguistics, Russian Academy of Sciences, Moscow, October 4, 2018).
 
 11. Pagé-Perron, Émilie. “Cuneiform Collections as (Linked) Data” (“Collections as Data” workshop, Digital Libraries Forum, Las Vegas, October 15-17, 2018).
+
+12. Pagé-Perron, Émilie, Jinyan Wang, and Ilya Khait. (“Sumerian Annotation Workshop” University of California Berkeley, Berkeley, April 8, 2019).
+
+13. Kahit, Ilya and Émilie Pagé-Perron. “The MTAAC Project: Computational Analysis for Sumerian” (Broadening Horizons, Berlin, June 24-28, 2019).
+
+14. Baker, Heather and Émilie Pagé-Perron. “Machine Translation and Automated Analysis of Cuneiform Languages” (Round Four Digging into Data Challenge Conference, National Science Foundation, Alexandria DC, January 29-31, 2020). 
+
+15. Pagé-Perron, Émilie. "The Cuneiform Digital Library Initiative" (TextWorlds Seminar Series: Cuneiform, Uppsala University, Virtual, October 21, 2020).
+
+16. Pagé-Perron, Émilie. "Open Science at the CDLI: Focus on collaboration and accessibility" (Recent developments in digital Assyriology  - Zoom Workshop, Helsinki, August 26-27, 2020).
+
+17. Pagé-Perron, Émilie. "The Cuneiform Digital Library Initiative - Infrastructure" (Status quo und aktuelle Entwicklungen zu digitalen Keilschrifteditionen, a workshop by for the DFG-Forschungsprojekts „Digitale Edition der Keilschrifttexte aus Haft Tappeh (Iran)“, Universität Mainz, Virtual, March 1-2, 2021).
+
+18. Chiarcos, Christian, and Émilie Pagé-Perron. "A Next Generation Infrastructure for Digital Assyriology" (The Association for Computers and the Humanities Conference, Virtual, July 21-23, 2021).
+
+19. Pagé-Perron, Émilie "Digital Library Organization and Accessibility" (Future Philology: Digitization and Beyond, University of Oxford, September 30 - October 1, 2021).
+
 
 ## MTAAC in the press and popular media
 1. [Big data research awards show the potential of international collaboration](http://www.universityaffairs.ca/opinion/in-my-opinion/big-data-research-awards-show-potential-international-collaboration/) in University Affairs magazine, by Michael Sinatra 02/05/2017
