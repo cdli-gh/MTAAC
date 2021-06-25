@@ -19,10 +19,10 @@ docs:
         url: https://cdli-gh.github.io/
       - title: "Contact"
         url: /contact/
-      - title: "Posts"
-        url: /posts/
-      - title: "Calendar"
-        url: /calendar/
+#      - title: "Posts"
+#        url: /posts/
+#      - title: "Calendar"
+#        url: /calendar/
   - title: "International Teams"
     children:
       - title: "CDLI UCLA"
